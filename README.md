@@ -4,3 +4,5 @@ also it is aimed to have a syntac like FastAPI and should include an ORM system 
 
 # Benchmarks:
 in the latest benchmarks i run i achived tuned the router to a speed that matched with Nginx with im quite proud about tbh ^^
+
+lol das ist mist depp
